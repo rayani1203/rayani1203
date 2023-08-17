@@ -6,7 +6,7 @@
 
 - 💻 Software has grown to be something I'm greatly passionate about; I believe it's the perfect way for me to translate my love for solving problems, learning about technology, and creating cool stuff into the real world in a role where I can do all of these things.
 
-- 🌱 Currently, I'm learning data structures and algorithms, React.JS/Node.JS, and SQL as I look to grow as a software engineer.
+- 🌱 Currently, I'm learning MongoDB, NextJS, Firebase, and deployment tools as I look to grow as a software engineer.
 
 
 <!---
